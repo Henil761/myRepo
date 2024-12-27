@@ -1,0 +1,6 @@
+@xUnitExample_HostAddress = http://localhost:5219
+
+GET {{xUnitExample_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
